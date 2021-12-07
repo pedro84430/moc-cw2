@@ -497,3 +497,153 @@
 1638839697: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1638842709: Client auto-21DE9B8E-F0CD-9FF1-696F-5E74A6B2ADEC closed its connection.
 1638842711: Client auto-B65D3E56-EEC1-24C8-7978-88957446CFAF closed its connection.
+1638898508: mosquitto version 2.0.14 starting
+1638898508: Config loaded from /mosquitto/config/mosquitto.conf.
+1638898508: Opening ipv4 listen socket on port 1883.
+1638898508: Opening ipv6 listen socket on port 1883.
+1638898508: mosquitto version 2.0.14 running
+1638898509: New connection from 192.168.16.5:38938 on port 1883.
+1638898509: New client connected from 192.168.16.5:38938 as mqtt_d97597b559a3 (p2, c1, k60, u'emqx').
+1638898768: mosquitto version 2.0.14 terminating
+1638898768: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638900433: mosquitto version 2.0.14 starting
+1638900433: Config loaded from /mosquitto/config/mosquitto.conf.
+1638900433: Opening ipv4 listen socket on port 1883.
+1638900433: Opening ipv6 listen socket on port 1883.
+1638900433: mosquitto version 2.0.14 running
+1638900434: New connection from 192.168.16.5:38980 on port 1883.
+1638900434: New client connected from 192.168.16.5:38980 as mqtt_9b04a70b35fd (p2, c1, k60, u'emqx').
+1638900476: New connection from 192.168.16.1:59842 on port 1883.
+1638900476: New client connected from 192.168.16.1:59842 as BedroomDoor (p2, c1, k60).
+1638900476: Client mqtt_9b04a70b35fd closed its connection.
+1638900477: New connection from 192.168.16.5:38984 on port 1883.
+1638900477: New client connected from 192.168.16.5:38984 as mqtt_6d20cee40184 (p2, c1, k60, u'emqx').
+1638900542: Client mqtt_6d20cee40184 closed its connection.
+1638900543: New connection from 192.168.16.5:38986 on port 1883.
+1638900543: New client connected from 192.168.16.5:38986 as mqtt_19963edf4656 (p2, c1, k60, u'emqx').
+1638900546: Client mqtt_19963edf4656 closed its connection.
+1638900547: New connection from 192.168.16.5:38988 on port 1883.
+1638900547: New client connected from 192.168.16.5:38988 as mqtt_758a083cc989 (p2, c1, k60, u'emqx').
+1638900561: Client mqtt_758a083cc989 closed its connection.
+1638900562: New connection from 192.168.16.5:38990 on port 1883.
+1638900562: New client connected from 192.168.16.5:38990 as mqtt_d3169b4cab59 (p2, c1, k60, u'emqx').
+1638900598: Client mqtt_d3169b4cab59 closed its connection.
+1638900599: New connection from 192.168.16.5:39006 on port 1883.
+1638900599: New client connected from 192.168.16.5:39006 as mqtt_bb7c40e1492 (p2, c1, k60, u'emqx').
+1638900599: Client mqtt_bb7c40e1492 closed its connection.
+1638900600: New connection from 192.168.16.5:39008 on port 1883.
+1638900600: New client connected from 192.168.16.5:39008 as mqtt_b1d9437a93dd (p2, c1, k60, u'emqx').
+1638900618: Client mqtt_b1d9437a93dd closed its connection.
+1638900620: New connection from 192.168.16.5:39010 on port 1883.
+1638900620: New client connected from 192.168.16.5:39010 as mqtt_9eb99a652a1e (p2, c1, k60, u'emqx').
+1638900620: Client mqtt_9eb99a652a1e closed its connection.
+1638900621: New connection from 192.168.16.5:39012 on port 1883.
+1638900621: New client connected from 192.168.16.5:39012 as mqtt_28eea76000ce (p2, c1, k60, u'emqx').
+1638900623: Client mqtt_28eea76000ce closed its connection.
+1638900624: New connection from 192.168.16.5:39014 on port 1883.
+1638900624: New client connected from 192.168.16.5:39014 as mqtt_cba923e6ed2 (p2, c1, k60, u'emqx').
+1638900714: Client BedroomDoor has exceeded timeout, disconnecting.
+1638900889: Client mqtt_cba923e6ed2 closed its connection.
+1638900890: New connection from 192.168.16.5:39024 on port 1883.
+1638900890: New client connected from 192.168.16.5:39024 as mqtt_94d9584802c (p2, c1, k60, u'emqx').
+1638900946: New connection from 192.168.16.1:59892 on port 1883.
+1638900946: New client connected from 192.168.16.1:59892 as BedroomDoor (p2, c1, k60).
+1638901044: Client BedroomDoor has exceeded timeout, disconnecting.
+1638901306: Client mqtt_94d9584802c closed its connection.
+1638901307: New connection from 192.168.16.5:39054 on port 1883.
+1638901307: New client connected from 192.168.16.5:39054 as mqtt_0e0f19702c03 (p2, c1, k60, u'emqx').
+1638901314: New connection from 192.168.16.1:59916 on port 1883.
+1638901314: New client connected from 192.168.16.1:59916 as BedroomDoor (p2, c1, k60).
+1638901518: Client BedroomDoor has exceeded timeout, disconnecting.
+1638901520: Client mqtt_0e0f19702c03 closed its connection.
+1638901521: New connection from 192.168.16.5:39114 on port 1883.
+1638901521: New client connected from 192.168.16.5:39114 as mqtt_ecc5ac8b8e23 (p2, c1, k60, u'emqx').
+1638901551: New connection from 192.168.16.1:59980 on port 1883.
+1638901551: New client connected from 192.168.16.1:59980 as BedroomDoor (p2, c1, k60).
+1638901662: Client BedroomDoor has exceeded timeout, disconnecting.
+1638901819: Client mqtt_ecc5ac8b8e23 closed its connection.
+1638901820: New connection from 192.168.16.5:39150 on port 1883.
+1638901820: New client connected from 192.168.16.5:39150 as mqtt_a43a27093b0f (p2, c1, k60, u'emqx').
+1638901858: New connection from 192.168.16.1:60014 on port 1883.
+1638901858: New client connected from 192.168.16.1:60014 as BedroomDoor (p2, c1, k60).
+1638902010: Client BedroomDoor has exceeded timeout, disconnecting.
+1638902233: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638902341: Client mqtt_a43a27093b0f closed its connection.
+1638902341: New connection from 192.168.16.5:39198 on port 1883.
+1638902341: New client connected from 192.168.16.5:39198 as mqtt_f2d86ac6d962 (p2, c1, k60, u'emqx').
+1638902414: Client mqtt_f2d86ac6d962 closed its connection.
+1638902415: New connection from 192.168.16.5:39202 on port 1883.
+1638902415: New client connected from 192.168.16.5:39202 as mqtt_915b5dbaed32 (p2, c1, k60, u'emqx').
+1638902420: New connection from 192.168.16.1:60066 on port 1883.
+1638902420: New client connected from 192.168.16.1:60066 as BedroomDoor (p2, c1, k60).
+1638902420: Client mqtt_915b5dbaed32 closed its connection.
+1638902421: New connection from 192.168.16.5:39208 on port 1883.
+1638902421: New client connected from 192.168.16.5:39208 as mqtt_ccc1d5ccb7d7 (p2, c1, k60, u'emqx').
+1638902514: Client BedroomDoor has exceeded timeout, disconnecting.
+1638902527: Client mqtt_ccc1d5ccb7d7 closed its connection.
+1638902528: New connection from 192.168.16.5:39212 on port 1883.
+1638902528: New client connected from 192.168.16.5:39212 as mqtt_20110b3d8e2c (p2, c1, k60, u'emqx').
+1638902532: New connection from 192.168.16.1:60074 on port 1883.
+1638902532: New client connected from 192.168.16.1:60074 as BedroomDoor (p2, c1, k60).
+1638902532: Client mqtt_20110b3d8e2c closed its connection.
+1638902533: New connection from 192.168.16.5:39216 on port 1883.
+1638902533: New client connected from 192.168.16.5:39216 as mqtt_c24807f4ddf3 (p2, c1, k60, u'emqx').
+1638902601: Client mqtt_c24807f4ddf3 closed its connection.
+1638902602: New connection from 192.168.16.5:39220 on port 1883.
+1638902602: New client connected from 192.168.16.5:39220 as mqtt_7d3cd5330cf7 (p2, c1, k60, u'emqx').
+1638902606: Client BedroomDoor closed its connection.
+1638902607: New connection from 192.168.16.1:60082 on port 1883.
+1638902607: New client connected from 192.168.16.1:60082 as BedroomDoor (p2, c1, k60).
+1638902607: Client mqtt_7d3cd5330cf7 closed its connection.
+1638902608: New connection from 192.168.16.5:39224 on port 1883.
+1638902608: New client connected from 192.168.16.5:39224 as mqtt_f569ed4ab7b (p2, c1, k60, u'emqx').
+1638902640: Client mqtt_f569ed4ab7b closed its connection.
+1638902641: New connection from 192.168.16.5:39228 on port 1883.
+1638902641: New client connected from 192.168.16.5:39228 as mqtt_dfa296205036 (p2, c1, k60, u'emqx').
+1638902643: Client BedroomDoor closed its connection.
+1638902645: New connection from 192.168.16.1:60090 on port 1883.
+1638902645: New client connected from 192.168.16.1:60090 as BedroomDoor (p2, c1, k60).
+1638902736: Client mqtt_dfa296205036 closed its connection.
+1638902736: Client BedroomDoor has exceeded timeout, disconnecting.
+1638902737: New connection from 192.168.16.5:39242 on port 1883.
+1638902737: New client connected from 192.168.16.5:39242 as mqtt_c077f01e8b03 (p2, c1, k60, u'emqx').
+1638902763: Client mqtt_c077f01e8b03 closed its connection.
+1638902764: New connection from 192.168.16.5:39250 on port 1883.
+1638902764: New client connected from 192.168.16.5:39250 as mqtt_fd5e6d87a788 (p2, c1, k60, u'emqx').
+1638902768: New connection from 192.168.16.1:60112 on port 1883.
+1638902768: New client connected from 192.168.16.1:60112 as BedroomDoor (p2, c1, k60).
+1638902862: Client BedroomDoor has exceeded timeout, disconnecting.
+1638903116: New connection from 192.168.16.1:60132 on port 1883.
+1638903116: New client connected from 192.168.16.1:60132 as BedroomDoor (p2, c1, k60).
+1638903116: Client mqtt_fd5e6d87a788 closed its connection.
+1638903118: New connection from 192.168.16.5:39274 on port 1883.
+1638903118: New client connected from 192.168.16.5:39274 as mqtt_6d270d888725 (p2, c1, k60, u'emqx').
+1638903122: Client mqtt_6d270d888725 closed its connection.
+1638903123: New connection from 192.168.16.5:39278 on port 1883.
+1638903123: New client connected from 192.168.16.5:39278 as mqtt_314c11f33d97 (p2, c1, k60, u'emqx').
+1638903142: Client mqtt_314c11f33d97 closed its connection.
+1638903143: New connection from 192.168.16.5:39280 on port 1883.
+1638903143: New client connected from 192.168.16.5:39280 as mqtt_247d64b5bbab (p2, c1, k60, u'emqx').
+1638903158: Client BedroomDoor closed its connection.
+1638903159: New connection from 192.168.16.1:60142 on port 1883.
+1638903159: New client connected from 192.168.16.1:60142 as BedroomDoor (p2, c1, k60).
+1638903300: Client BedroomDoor has exceeded timeout, disconnecting.
+1638904034: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638905095: New connection from 192.168.16.1:60310 on port 1883.
+1638905095: New client connected from 192.168.16.1:60310 as BedroomDoor (p2, c1, k60).
+1638905196: Client BedroomDoor has exceeded timeout, disconnecting.
+1638905243: Client mqtt_247d64b5bbab closed its connection.
+1638905244: New connection from 192.168.16.5:39464 on port 1883.
+1638905244: New client connected from 192.168.16.5:39464 as mqtt_a896ed87ddb7 (p2, c1, k60, u'emqx').
+1638905247: New connection from 192.168.16.1:60326 on port 1883.
+1638905247: New client connected from 192.168.16.1:60326 as BedroomDoor (p2, c1, k60).
+1638905268: Client mqtt_a896ed87ddb7 closed its connection.
+1638905269: Client BedroomDoor closed its connection.
+1638905269: New connection from 192.168.16.5:39468 on port 1883.
+1638905269: New client connected from 192.168.16.5:39468 as mqtt_b54d8fbbaeed (p2, c1, k60, u'emqx').
+1638905271: New connection from 192.168.16.1:60330 on port 1883.
+1638905271: New client connected from 192.168.16.1:60330 as BedroomDoor (p2, c1, k60).
+1638905370: Client BedroomDoor has exceeded timeout, disconnecting.
+1638905835: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638907636: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638910605: Saving in-memory database to /mosquitto/data//mosquitto.db.

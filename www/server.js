@@ -1,18 +1,19 @@
 const mqtt = require('mqtt')
 const {InfluxDB} = require('@influxdata/influxdb-client')
 
+// MQTT parameters
 const host = 'mqtt'
 const port = '1883'
 const clientId = `mqtt_${Math.random().toString(16).slice(3)}`
 const connectUrl = `mqtt://${host}:${port}`
 
 // DB config parameters
-const token = 'bM6kE0Y5pOSGMWrP_xaeuQd49sS9pCpxWcbj09uI5dY3Mx2trFnPIrFyLxu7Ue8JjYipbqjfg7Xr6zbz_280Iw=='
+const token = 'e7pd0c271xFYoC91OlCHfimcKwghy0GkZAjmmQ1vmgUWIY2ew1oN_SEvfiUTJXCjjtJDiPAxqdxncKMj6eUWlg=='
 const org = 'MOC'
 const bucket = 'iot-security'
 
 // connect to mqtt broker
-const client = mqtt.connect(connectUrl, {
+const clientMQTT = mqtt.connect(connectUrl, {
     clientId,
     clean: true,
     connectTimeout: 4000,
@@ -22,31 +23,33 @@ const client = mqtt.connect(connectUrl, {
   })
 
 const clientDB = new InfluxDB({url: 'http://db:8086', token: token})
-
+const {Point} = require('@influxdata/influxdb-client')
+const writeApi = clientDB.getWriteApi(org, bucket)
 const topic = 'security'
 
-client.on('connect', () => {
+clientMQTT.on('connect', () => {
   console.log('Connected')
-  client.subscribe([topic], () => {
+  clientMQTT.subscribe([topic], () => {
     console.log(`Subscribe to topic '${topic}'`)
   })
 })
 
-client.on('message', (topic, payload) => {
+clientMQTT.on('message', (topic, payload) => {
+
+
+  
+
   //TODO: Send Email Notification
 
 
   //TODO: Insert in DB Influx
 
-  const {Point} = require('@influxdata/influxdb-client')
-  const writeApi = clientDB.getWriteApi(org, bucket)
-  writeApi.useDefaultTags({host: 'host1'})
-
-  const point = new Point('mem').timestamp
+  const point = new Point('door_sensor').tag('door_id',"Kitchen Door").floatField("door_open",1.0)
   writeApi.writePoint(point)
 
-
   console.log('Received Message:', topic, payload.toString())
+
+  //writeApi.close().then(() => console.log("api closed"))
 })
 
 

@@ -5,9 +5,7 @@ services:
     image: eclipse-mosquitto
     restart: always
     volumes:
-      - mosquitto/config/:/mosquitto/config/
-      - mosquitto/data/:/mosquitto/data/
-      - mosquitto/log/:/mosquitto/log/
+      - /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto:/mosquitto/
     ports:
       - 1883:1883
       - 9001:9001
@@ -25,8 +23,6 @@ services:
   db:
     image: influxdb:latest
     restart: always
-    volumes:
-      - db/:/var/lib/influxdb/
     ports:
       - 8086:8086
     networks:
@@ -43,7 +39,7 @@ services:
     build: .
     restart: always
     volumes:
-      - www/:/home/node/app
+      - /Users/pedrofonseca/Documents/LSBU/MOC/CW2/www:/home/node/app
       - /usr/app/node_modules
     ports:
       - 8080:5000
@@ -61,3 +57,5 @@ networks:
     driver: bridge
 
 volumes:
+  www:
+  mosquitto:
