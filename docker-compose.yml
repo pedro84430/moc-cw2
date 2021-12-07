@@ -5,9 +5,9 @@ services:
     image: eclipse-mosquitto
     restart: always
     volumes:
-      - $(pwd)/mosquitto/config/:/mosquitto/config/
-      - /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data/:/mosquitto/data/
-      - /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/log/:/mosquitto/log/
+      - mosquitto/config/:/mosquitto/config/
+      - mosquitto/data/:/mosquitto/data/
+      - mosquitto/log/:/mosquitto/log/
     ports:
       - 1883:1883
       - 9001:9001
@@ -26,7 +26,7 @@ services:
     image: influxdb:latest
     restart: always
     volumes:
-      - /Users/pedrofonseca/Documents/LSBU/MOC/CW2/db/:/var/lib/influxdb/
+      - db/:/var/lib/influxdb/
     ports:
       - 8086:8086
     networks:
@@ -43,7 +43,7 @@ services:
     build: .
     restart: always
     volumes:
-      - /Users/pedrofonseca/Documents/LSBU/MOC/CW2/www/:/home/node/app
+      - www/:/home/node/app
       - /usr/app/node_modules
     ports:
       - 8080:5000
@@ -59,3 +59,5 @@ services:
 networks:
   iot-door:
     driver: bridge
+
+volumes:
