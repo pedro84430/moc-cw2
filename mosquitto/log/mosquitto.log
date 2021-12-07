@@ -1,0 +1,499 @@
+1638387167: mosquitto version 2.0.14 starting
+1638387167: Config loaded from /opt/homebrew/etc/mosquitto/mosquitto.conf.
+1638387167: Opening ipv6 listen socket on port 1883.
+1638387167: Opening ipv4 listen socket on port 1883.
+1638387167: mosquitto version 2.0.14 running
+1638387173: New connection from 192.168.0.61:54023 on port 1883.
+1638387173: New client connected from 192.168.0.61:54023 as BedroomDoor (p2, c1, k60).
+1638387218: Client BedroomDoor closed its connection.
+1638387281: New connection from 192.168.0.61:33133 on port 1883.
+1638387281: New client connected from 192.168.0.61:33133 as BedroomDoor (p2, c1, k60).
+1638387299: Client BedroomDoor closed its connection.
+1638387590: New connection from ::1:51019 on port 1883.
+1638387590: New client connected from ::1:51019 as auto-AC74E08E-B568-651D-4951-9227EC5FFE96 (p2, c1, k60).
+1638387611: New connection from 192.168.0.61:50175 on port 1883.
+1638387611: New client connected from 192.168.0.61:50175 as BedroomDoor (p2, c1, k60).
+1638387634: Client BedroomDoor closed its connection.
+1638387705: New connection from 192.168.0.61:43953 on port 1883.
+1638387705: New client connected from 192.168.0.61:43953 as BedroomDoor (p2, c1, k60).
+1638387750: Client BedroomDoor closed its connection.
+1638387908: New connection from 192.168.0.61:46881 on port 1883.
+1638387908: New client connected from 192.168.0.61:46881 as BedroomDoor (p2, c1, k60).
+1638387922: Client BedroomDoor closed its connection.
+1638387995: New connection from 192.168.0.61:54035 on port 1883.
+1638387995: New client connected from 192.168.0.61:54035 as BedroomDoor (p2, c1, k60).
+1638388008: Client BedroomDoor closed its connection.
+1638388170: New connection from 192.168.0.61:60085 on port 1883.
+1638388170: New client connected from 192.168.0.61:60085 as BedroomDoor (p2, c1, k60).
+1638388261: New connection from 192.168.0.61:45905 on port 1883.
+1638388261: Client BedroomDoor already connected, closing old connection.
+1638388261: New client connected from 192.168.0.61:45905 as BedroomDoor (p2, c1, k60).
+1638388286: Client BedroomDoor closed its connection.
+1638388310: New connection from 192.168.0.61:47701 on port 1883.
+1638388310: New client connected from 192.168.0.61:47701 as BedroomDoor (p2, c1, k60).
+1638388392: Client BedroomDoor closed its connection.
+1638388459: New connection from 192.168.0.61:44397 on port 1883.
+1638388459: New client connected from 192.168.0.61:44397 as BedroomDoor (p2, c1, k60).
+1638388497: Client BedroomDoor closed its connection.
+1638388611: New connection from 192.168.0.61:43625 on port 1883.
+1638388611: New client connected from 192.168.0.61:43625 as BedroomDoor (p2, c1, k60).
+1638388899: Client BedroomDoor closed its connection.
+1638388902: New connection from 192.168.0.61:33333 on port 1883.
+1638388902: New client connected from 192.168.0.61:33333 as BedroomDoor (p2, c1, k60).
+1638388902: Client BedroomDoor closed its connection.
+1638388937: New connection from 192.168.0.61:36609 on port 1883.
+1638388937: New client connected from 192.168.0.61:36609 as BedroomDoor (p2, c1, k60).
+1638388952: Client BedroomDoor closed its connection.
+1638388967: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638389084: New connection from 192.168.0.61:49167 on port 1883.
+1638389084: New client connected from 192.168.0.61:49167 as BedroomDoor (p2, c1, k60).
+1638389232: Client BedroomDoor closed its connection.
+1638389386: New connection from 192.168.0.61:35217 on port 1883.
+1638389386: New client connected from 192.168.0.61:35217 as BedroomDoor (p2, c1, k60).
+1638389386: Client BedroomDoor closed its connection.
+1638389409: New connection from 192.168.0.61:59693 on port 1883.
+1638389409: New client connected from 192.168.0.61:59693 as BedroomDoor (p2, c1, k60).
+1638389409: Client BedroomDoor closed its connection.
+1638389430: New connection from 192.168.0.61:58091 on port 1883.
+1638389430: New client connected from 192.168.0.61:58091 as BedroomDoor (p2, c1, k60).
+1638389439: Client BedroomDoor closed its connection.
+1638389502: New connection from 192.168.0.61:60023 on port 1883.
+1638389502: New client connected from 192.168.0.61:60023 as BedroomDoor (p2, c1, k60).
+1638389502: Client BedroomDoor closed its connection.
+1638389609: New connection from 192.168.0.61:56997 on port 1883.
+1638389609: New client connected from 192.168.0.61:56997 as BedroomDoor (p2, c1, k60).
+1638389609: Client BedroomDoor closed its connection.
+1638389650: New connection from 192.168.0.61:37737 on port 1883.
+1638389650: New client connected from 192.168.0.61:37737 as BedroomDoor (p2, c1, k60).
+1638389650: Client BedroomDoor closed its connection.
+1638390017: New connection from 192.168.0.61:48741 on port 1883.
+1638390017: New client connected from 192.168.0.61:48741 as BedroomDoor (p2, c1, k60).
+1638390019: Client BedroomDoor closed its connection.
+1638390169: New connection from 192.168.0.61:34903 on port 1883.
+1638390169: New client connected from 192.168.0.61:34903 as BedroomDoor (p2, c1, k60).
+1638390169: Client BedroomDoor closed its connection.
+1638390366: New connection from 192.168.0.61:34459 on port 1883.
+1638390366: New client connected from 192.168.0.61:34459 as BedroomDoor (p2, c1, k60).
+1638390366: Client BedroomDoor closed its connection.
+1638390383: New connection from 192.168.0.61:51543 on port 1883.
+1638390383: New client connected from 192.168.0.61:51543 as BedroomDoor (p2, c1, k60).
+1638390384: Client BedroomDoor closed its connection.
+1638390467: New connection from 192.168.0.61:54995 on port 1883.
+1638390467: New client connected from 192.168.0.61:54995 as BedroomDoor (p2, c1, k60).
+1638390467: Client BedroomDoor closed its connection.
+1638390655: New connection from 192.168.0.61:53597 on port 1883.
+1638390655: New client connected from 192.168.0.61:53597 as BedroomDoor (p2, c1, k60).
+1638390655: Client BedroomDoor closed its connection.
+1638390762: New connection from 192.168.0.61:40193 on port 1883.
+1638390762: New client connected from 192.168.0.61:40193 as BedroomDoor (p2, c1, k60).
+1638390764: Client BedroomDoor closed its connection.
+1638390768: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638390789: New connection from 192.168.0.61:40747 on port 1883.
+1638390789: New client connected from 192.168.0.61:40747 as BedroomDoor (p2, c1, k60).
+1638390789: Client BedroomDoor closed its connection.
+1638391224: New connection from 192.168.0.61:46321 on port 1883.
+1638391224: New client connected from 192.168.0.61:46321 as BedroomDoor (p2, c1, k60).
+1638391226: Client BedroomDoor closed its connection.
+1638391441: New connection from 192.168.0.61:34149 on port 1883.
+1638391441: New client connected from 192.168.0.61:34149 as BedroomDoor (p2, c1, k60).
+1638391441: Client BedroomDoor closed its connection.
+1638391480: New connection from 192.168.0.61:54445 on port 1883.
+1638391480: New client connected from 192.168.0.61:54445 as BedroomDoor (p2, c1, k60).
+1638391512: Client BedroomDoor closed its connection.
+1638391541: New connection from 192.168.0.61:37599 on port 1883.
+1638391541: New client connected from 192.168.0.61:37599 as BedroomDoor (p2, c1, k60).
+1638391804: Client BedroomDoor has exceeded timeout, disconnecting.
+1638392003: New connection from 192.168.0.61:58803 on port 1883.
+1638392003: New client connected from 192.168.0.61:58803 as BedroomDoor (p2, c1, k60).
+1638392014: Client BedroomDoor closed its connection.
+1638392091: New connection from 192.168.0.61:43281 on port 1883.
+1638392091: New client connected from 192.168.0.61:43281 as BedroomDoor (p2, c1, k60).
+1638392100: Client BedroomDoor closed its connection.
+1638392173: New connection from 192.168.0.61:33949 on port 1883.
+1638392173: New client connected from 192.168.0.61:33949 as BedroomDoor (p2, c1, k60).
+1638392302: Client BedroomDoor has exceeded timeout, disconnecting.
+1638392569: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638392582: New connection from 192.168.0.61:50075 on port 1883.
+1638392582: New client connected from 192.168.0.61:50075 as BedroomDoor (p2, c1, k60).
+1638392624: Client BedroomDoor closed its connection.
+1638393170: New connection from 192.168.0.61:47037 on port 1883.
+1638393170: New client connected from 192.168.0.61:47037 as BedroomDoor (p2, c1, k60).
+1638393224: Client BedroomDoor closed its connection.
+1638394485: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638396485: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638398527: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638400494: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638410258: Client auto-AC74E08E-B568-651D-4951-9227EC5FFE96 disconnected.
+1638410385: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638410972: mosquitto version 2.0.14 terminating
+1638410972: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638444913: mosquitto version 2.0.14 starting
+1638444913: Config loaded from /opt/homebrew/etc/mosquitto/mosquitto.conf.
+1638444913: Opening ipv6 listen socket on port 1883.
+1638444913: Opening ipv4 listen socket on port 1883.
+1638444913: mosquitto version 2.0.14 running
+1638445001: New connection from ::1:65010 on port 1883.
+1638445001: New client connected from ::1:65010 as auto-3D656965-8B76-6827-1BF4-0FD1EAB85908 (p2, c1, k60).
+1638445274: New connection from 192.168.0.51:44003 on port 1883.
+1638445274: New client connected from 192.168.0.51:44003 as BedroomDoor (p2, c1, k60).
+1638445301: Client BedroomDoor closed its connection.
+1638445308: New connection from 192.168.0.51:53763 on port 1883.
+1638445308: New client connected from 192.168.0.51:53763 as BedroomDoor (p2, c1, k60).
+1638445422: Client BedroomDoor has exceeded timeout, disconnecting.
+1638446134: Client auto-3D656965-8B76-6827-1BF4-0FD1EAB85908 disconnected.
+1638446135: New connection from ::1:65256 on port 1883.
+1638446135: New client connected from ::1:65256 as auto-0A790BF9-8CFE-B932-8938-54E47040C1BA (p2, c1, k60).
+1638446137: Client auto-0A790BF9-8CFE-B932-8938-54E47040C1BA disconnected.
+1638446264: New connection from ::1:65318 on port 1883.
+1638446264: New client connected from ::1:65318 as auto-4FC06E23-F03F-E089-D0FC-9ECC3DAE9E54 (p2, c1, k60).
+1638446300: Client auto-4FC06E23-F03F-E089-D0FC-9ECC3DAE9E54 disconnected.
+1638446302: New connection from ::1:65334 on port 1883.
+1638446302: New client connected from ::1:65334 as auto-2AA8C771-A363-8239-9B53-05E0112B1711 (p2, c1, k60).
+1638446305: New connection from 192.168.0.51:51221 on port 1883.
+1638446305: New client connected from 192.168.0.51:51221 as BedroomDoor (p2, c1, k60).
+1638446411: Client BedroomDoor has exceeded timeout, disconnecting.
+1638447135: Client auto-2AA8C771-A363-8239-9B53-05E0112B1711 disconnected.
+1638447140: mosquitto version 2.0.14 terminating
+1638447140: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638447141: mosquitto version 2.0.14 starting
+1638447141: Config loaded from /opt/homebrew/etc/mosquitto/mosquitto.conf.
+1638447141: Opening ipv6 listen socket on port 1883.
+1638447141: Opening ipv4 listen socket on port 1883.
+1638447141: mosquitto version 2.0.14 running
+1638447145: New connection from ::1:65528 on port 1883.
+1638447145: New client connected from ::1:65528 as auto-F91193A4-0CCA-A5B7-9095-628A67B723D1 (p2, c1, k60).
+1638447148: New connection from 192.168.0.51:46293 on port 1883.
+1638447148: New client connected from 192.168.0.51:46293 as BedroomDoor (p2, c1, k60).
+1638447285: Client BedroomDoor has exceeded timeout, disconnecting.
+1638448230: Client auto-F91193A4-0CCA-A5B7-9095-628A67B723D1 disconnected.
+1638448233: mosquitto version 2.0.14 terminating
+1638448233: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638449639: mosquitto version 2.0.14 starting
+1638449639: Config loaded from /opt/homebrew/etc/mosquitto/mosquitto.conf.
+1638449639: Opening ipv6 listen socket on port 1883.
+1638449639: Opening ipv4 listen socket on port 1883.
+1638449639: mosquitto version 2.0.14 running
+1638449652: New connection from ::1:52577 on port 1883.
+1638449652: New client connected from ::1:52577 as auto-B3EA455A-CD1D-3E73-63A8-201990614F3F (p2, c1, k60).
+1638449685: New connection from 192.168.0.51:51995 on port 1883.
+1638449685: New client connected from 192.168.0.51:51995 as BedroomDoor (p2, c1, k60).
+1638449787: Client BedroomDoor closed its connection.
+1638450014: New connection from 192.168.0.51:38963 on port 1883.
+1638450014: New client connected from 192.168.0.51:38963 as BedroomDoor (p2, c1, k60).
+1638450024: Client BedroomDoor closed its connection.
+1638450036: New connection from 192.168.0.51:46437 on port 1883.
+1638450036: New client connected from 192.168.0.51:46437 as BedroomDoor (p2, c1, k60).
+1638450057: Client BedroomDoor closed its connection.
+1638450152: New connection from 192.168.0.51:49313 on port 1883.
+1638450152: New client connected from 192.168.0.51:49313 as BedroomDoor (p2, c1, k60).
+1638450160: Client BedroomDoor closed its connection.
+1638450223: New connection from 192.168.0.51:43837 on port 1883.
+1638450223: New client connected from 192.168.0.51:43837 as BedroomDoor (p2, c1, k60).
+1638450239: Client BedroomDoor closed its connection.
+1638450625: New connection from 192.168.0.51:51531 on port 1883.
+1638450625: New client connected from 192.168.0.51:51531 as BedroomDoor (p2, c1, k60).
+1638450638: Client BedroomDoor closed its connection.
+1638450740: New connection from 192.168.0.51:44433 on port 1883.
+1638450740: New client connected from 192.168.0.51:44433 as BedroomDoor (p2, c1, k60).
+1638450772: Client BedroomDoor closed its connection.
+1638450866: New connection from 192.168.0.51:59941 on port 1883.
+1638450866: New client connected from 192.168.0.51:59941 as BedroomDoor (p2, c1, k60).
+1638450909: Client BedroomDoor closed its connection.
+1638450937: New connection from 192.168.0.51:60465 on port 1883.
+1638450937: New client connected from 192.168.0.51:60465 as BedroomDoor (p2, c1, k60).
+1638450949: Client BedroomDoor closed its connection.
+1638451011: New connection from 192.168.0.51:50855 on port 1883.
+1638451011: New client connected from 192.168.0.51:50855 as BedroomDoor (p2, c1, k60).
+1638451115: Client BedroomDoor has exceeded timeout, disconnecting.
+1638451440: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638452899: Client auto-B3EA455A-CD1D-3E73-63A8-201990614F3F disconnected.
+1638452919: mosquitto version 2.0.14 terminating
+1638452919: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638807124: mosquitto version 2.0.14 starting
+1638807124: Config loaded from /opt/homebrew/etc/mosquitto/mosquitto.conf.
+1638807124: Opening ipv6 listen socket on port 1883.
+1638807124: Opening ipv4 listen socket on port 1883.
+1638807124: mosquitto version 2.0.14 running
+1638807134: New connection from 192.168.0.50:53807 on port 1883.
+1638807134: New client connected from 192.168.0.50:53807 as BedroomDoor (p2, c1, k60).
+1638807153: New connection from ::1:50241 on port 1883.
+1638807153: New client connected from ::1:50241 as auto-F1FB4A3D-96FE-ECA6-767B-628466C2C413 (p2, c1, k60).
+1638807267: Client BedroomDoor has exceeded timeout, disconnecting.
+1638807596: New connection from 192.168.0.50:59159 on port 1883.
+1638807596: New client connected from 192.168.0.50:59159 as BedroomDoor (p2, c1, k60).
+1638807693: Client BedroomDoor has exceeded timeout, disconnecting.
+1638808924: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638810725: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638812526: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638813040: mosquitto version 2.0.14 terminating
+1638813040: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638813042: mosquitto version 2.0.14 starting
+1638813042: Config loaded from /opt/homebrew/etc/mosquitto/mosquitto.conf.
+1638813042: Opening ipv6 listen socket on port 1883.
+1638813042: Opening ipv4 listen socket on port 1883.
+1638813042: mosquitto version 2.0.14 running
+1638813042: New connection from ::1:53705 on port 1883.
+1638813042: New client connected from ::1:53705 as auto-801314E3-278A-A7BB-6105-FACAEE008C3E (p2, c1, k60).
+1638813064: New connection from 192.168.0.50:48665 on port 1883.
+1638813064: New client connected from 192.168.0.50:48665 as BedroomDoor (p2, c1, k60).
+1638813156: Client BedroomDoor closed its connection.
+1638813186: New connection from 192.168.0.50:44311 on port 1883.
+1638813186: New client connected from 192.168.0.50:44311 as BedroomDoor (p2, c1, k60).
+1638813281: Client BedroomDoor has exceeded timeout, disconnecting.
+1638814616: Client auto-801314E3-278A-A7BB-6105-FACAEE008C3E disconnected.
+1638814684: mosquitto version 2.0.14 terminating
+1638814684: Saving in-memory database to /Users/pedrofonseca/Documents/LSBU/MOC/CW2/mosquitto/data//mosquitto.db.
+1638819563: mosquitto version 2.0.14 starting
+1638819563: Config loaded from /mosquitto/config/mosquitto.conf.
+1638819563: Opening ipv4 listen socket on port 1883.
+1638819563: Opening ipv6 listen socket on port 1883.
+1638819563: mosquitto version 2.0.14 running
+1638821364: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638822457: New connection from 172.18.0.5:41628 on port 1883.
+1638822457: New client connected from 172.18.0.5:41628 as mqtt_99feb255425b (p2, c1, k60, u'emqx').
+1638822515: Client mqtt_99feb255425b closed its connection.
+1638823165: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638823326: New connection from 172.18.0.5:41750 on port 1883.
+1638823326: New client connected from 172.18.0.5:41750 as mqtt_05c460cca458 (p2, c1, k60, u'emqx').
+1638823367: Client mqtt_05c460cca458 closed its connection.
+1638823368: New connection from 172.18.0.5:41754 on port 1883.
+1638823368: New client connected from 172.18.0.5:41754 as mqtt_14e017ed7c24 (p2, c1, k60, u'emqx').
+1638823440: Client mqtt_14e017ed7c24 closed its connection.
+1638823441: New connection from 172.18.0.5:41762 on port 1883.
+1638823441: New client connected from 172.18.0.5:41762 as mqtt_a0a1be1ca9cf (p2, c1, k60, u'emqx').
+1638823653: Client mqtt_a0a1be1ca9cf closed its connection.
+1638823653: mosquitto version 2.0.14 terminating
+1638823653: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638823656: mosquitto version 2.0.14 starting
+1638823656: Config loaded from /mosquitto/config/mosquitto.conf.
+1638823656: Opening ipv4 listen socket on port 1883.
+1638823656: Opening ipv6 listen socket on port 1883.
+1638823656: mosquitto version 2.0.14 running
+1638823657: New connection from 172.18.0.5:41782 on port 1883.
+1638823657: New client connected from 172.18.0.5:41782 as mqtt_97ea32ce79ba (p2, c1, k60, u'emqx').
+1638823760: Client mqtt_97ea32ce79ba closed its connection.
+1638823760: mosquitto version 2.0.14 terminating
+1638823760: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638823894: mosquitto version 2.0.14 starting
+1638823894: Config loaded from /mosquitto/config/mosquitto.conf.
+1638823894: Opening ipv4 listen socket on port 1883.
+1638823894: Opening ipv6 listen socket on port 1883.
+1638823894: mosquitto version 2.0.14 running
+1638824230: New connection from 172.19.0.5:43590 on port 1883.
+1638824230: New client connected from 172.19.0.5:43590 as mqtt_a7d6ef12766e (p2, c1, k60, u'emqx').
+1638824239: Client mqtt_a7d6ef12766e closed its connection.
+1638824240: New connection from 172.19.0.5:43592 on port 1883.
+1638824240: New client connected from 172.19.0.5:43592 as mqtt_2033f3d46cbd (p2, c1, k60, u'emqx').
+1638824381: Client mqtt_2033f3d46cbd closed its connection.
+1638824381: mosquitto version 2.0.14 terminating
+1638824381: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638824389: mosquitto version 2.0.14 starting
+1638824389: Config loaded from /mosquitto/config/mosquitto.conf.
+1638824389: Opening ipv4 listen socket on port 1883.
+1638824389: Opening ipv6 listen socket on port 1883.
+1638824389: mosquitto version 2.0.14 running
+1638824391: New connection from 172.20.0.5:40984 on port 1883.
+1638824391: New client connected from 172.20.0.5:40984 as mqtt_ff4080fb343d (p2, c1, k60, u'emqx').
+1638824506: Client mqtt_ff4080fb343d closed its connection.
+1638824507: mosquitto version 2.0.14 terminating
+1638824507: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638824516: mosquitto version 2.0.14 starting
+1638824516: Config loaded from /mosquitto/config/mosquitto.conf.
+1638824516: Opening ipv4 listen socket on port 1883.
+1638824516: mosquitto version 2.0.14 running
+1638824517: New connection from 172.21.0.5:33294 on port 1883.
+1638824517: New client connected from 172.21.0.5:33294 as mqtt_952f3b991997 (p2, c1, k60, u'emqx').
+1638824682: Client mqtt_952f3b991997 closed its connection.
+1638824682: mosquitto version 2.0.14 terminating
+1638824682: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638824685: mosquitto version 2.0.14 starting
+1638824685: Config loaded from /mosquitto/config/mosquitto.conf.
+1638824685: Opening ipv4 listen socket on port 1883.
+1638824685: Opening ipv6 listen socket on port 1883.
+1638824685: mosquitto version 2.0.14 running
+1638824687: New connection from 172.22.0.5:54278 on port 1883.
+1638824687: New client connected from 172.22.0.5:54278 as mqtt_af98f77fd25d (p2, c1, k60, u'emqx').
+1638824804: Client mqtt_af98f77fd25d closed its connection.
+1638824804: mosquitto version 2.0.14 terminating
+1638824804: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638824807: mosquitto version 2.0.14 starting
+1638824807: Config loaded from /mosquitto/config/mosquitto.conf.
+1638824807: Opening ipv4 listen socket on port 1883.
+1638824807: Opening ipv6 listen socket on port 1883.
+1638824807: mosquitto version 2.0.14 running
+1638824808: New connection from 172.23.0.5:60248 on port 1883.
+1638824808: New client connected from 172.23.0.5:60248 as mqtt_be0bb71d99c1 (p2, c1, k60, u'emqx').
+1638824897: Client mqtt_be0bb71d99c1 closed its connection.
+1638824897: mosquitto version 2.0.14 terminating
+1638824897: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638824905: mosquitto version 2.0.14 starting
+1638824905: Config loaded from /mosquitto/config/mosquitto.conf.
+1638824905: Opening ipv4 listen socket on port 1883.
+1638824905: Opening ipv6 listen socket on port 1883.
+1638824905: mosquitto version 2.0.14 running
+1638824906: New connection from 172.24.0.5:46212 on port 1883.
+1638824906: New client connected from 172.24.0.5:46212 as mqtt_f38acc6fff18 (p2, c1, k60, u'emqx').
+1638824914: New connection from 172.24.0.1:59374 on port 1883.
+1638824914: New client connected from 172.24.0.1:59374 as auto-A5690195-9419-1C81-0D52-C7357A15A54F (p2, c1, k60).
+1638824933: New connection from 172.24.0.1:59376 on port 1883.
+1638824933: New client connected from 172.24.0.1:59376 as BedroomDoor (p2, c1, k60).
+1638825031: Client BedroomDoor has exceeded timeout, disconnecting.
+1638828825: New connection from 172.24.0.1:59400 on port 1883.
+1638828825: New client connected from 172.24.0.1:59400 as auto-6E27AB98-15DD-FDC1-44A3-F2FE821FB98A (p2, c1, k60).
+1638828861: New connection from 172.24.0.1:59402 on port 1883.
+1638828861: New client connected from 172.24.0.1:59402 as BedroomDoor (p2, c1, k60).
+1638828963: Client BedroomDoor has exceeded timeout, disconnecting.
+1638829408: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638829683: Client auto-6E27AB98-15DD-FDC1-44A3-F2FE821FB98A disconnected.
+1638829686: New connection from 172.24.0.1:59468 on port 1883.
+1638829686: New client connected from 172.24.0.1:59468 as auto-2FFE8AAB-85DA-CAE7-3B68-DB5984E2BFBE (p2, c1, k60).
+1638830007: Client mqtt_f38acc6fff18 closed its connection.
+1638830498: mosquitto version 2.0.14 terminating
+1638830498: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638830511: mosquitto version 2.0.14 starting
+1638830511: Config loaded from /mosquitto/config/mosquitto.conf.
+1638830511: Opening ipv4 listen socket on port 1883.
+1638830511: Opening ipv6 listen socket on port 1883.
+1638830511: mosquitto version 2.0.14 running
+1638830511: New connection from 172.25.0.1:59496 on port 1883.
+1638830511: New client connected from 172.25.0.1:59496 as auto-D89F18DB-070E-74A2-2880-41B80A8DB54D (p2, c1, k60).
+1638830511: New connection from 172.25.0.1:59498 on port 1883.
+1638830511: New client connected from 172.25.0.1:59498 as auto-A85C753A-4D08-3F1B-1D15-AA5A5B56F395 (p2, c1, k60).
+1638830609: mosquitto version 2.0.14 terminating
+1638830609: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638830614: mosquitto version 2.0.14 starting
+1638830614: Config loaded from /mosquitto/config/mosquitto.conf.
+1638830614: Opening ipv4 listen socket on port 1883.
+1638830614: Opening ipv6 listen socket on port 1883.
+1638830614: mosquitto version 2.0.14 running
+1638830615: New connection from 172.26.0.1:59532 on port 1883.
+1638830615: New connection from 172.26.0.1:59534 on port 1883.
+1638830615: New client connected from 172.26.0.1:59532 as auto-5C0F79C2-FB00-6B22-14BB-600C9DD17AB4 (p2, c1, k60).
+1638830615: New client connected from 172.26.0.1:59534 as auto-ACEFE4B4-A7AF-DEF0-84AC-70C6C96CE805 (p2, c1, k60).
+1638830689: mosquitto version 2.0.14 terminating
+1638830689: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638830694: mosquitto version 2.0.14 starting
+1638830694: Config loaded from /mosquitto/config/mosquitto.conf.
+1638830694: Opening ipv4 listen socket on port 1883.
+1638830694: Opening ipv6 listen socket on port 1883.
+1638830694: mosquitto version 2.0.14 running
+1638830694: New connection from 172.27.0.1:59546 on port 1883.
+1638830694: New connection from 172.27.0.1:59548 on port 1883.
+1638830694: New client connected from 172.27.0.1:59546 as auto-79F040F1-0C56-97EF-3463-E1306AF68A97 (p2, c1, k60).
+1638830694: New client connected from 172.27.0.1:59548 as auto-3A02FA5A-6CF9-57D0-7027-4C53872EBCDA (p2, c1, k60).
+1638830804: mosquitto version 2.0.14 terminating
+1638830804: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638830809: mosquitto version 2.0.14 starting
+1638830809: Config loaded from /mosquitto/config/mosquitto.conf.
+1638830809: Opening ipv4 listen socket on port 1883.
+1638830809: Opening ipv6 listen socket on port 1883.
+1638830809: mosquitto version 2.0.14 running
+1638830810: New connection from 172.28.0.1:59580 on port 1883.
+1638830810: New connection from 172.28.0.1:59582 on port 1883.
+1638830810: New client connected from 172.28.0.1:59580 as auto-0B3467BE-1BA0-CC36-2BF5-BE74D7B9C1F9 (p2, c1, k60).
+1638830810: New client connected from 172.28.0.1:59582 as auto-B2F1A45D-3FD0-CD91-B9FA-12FF143D2527 (p2, c1, k60).
+1638830894: mosquitto version 2.0.14 terminating
+1638830894: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638830913: mosquitto version 2.0.14 starting
+1638830913: Config loaded from /mosquitto/config/mosquitto.conf.
+1638830913: Opening ipv4 listen socket on port 1883.
+1638830913: Opening ipv6 listen socket on port 1883.
+1638830913: mosquitto version 2.0.14 running
+1638830914: New connection from 172.29.0.1:59590 on port 1883.
+1638830914: New client connected from 172.29.0.1:59590 as auto-201C8F20-15DB-B3BA-A80B-79D945C5D3C7 (p2, c1, k60).
+1638830914: New connection from 172.29.0.1:59592 on port 1883.
+1638830914: New client connected from 172.29.0.1:59592 as auto-E110D8DC-D0D2-6264-DD47-4442AAE196AC (p2, c1, k60).
+1638831051: mosquitto version 2.0.14 terminating
+1638831051: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638831069: mosquitto version 2.0.14 starting
+1638831069: Config loaded from /mosquitto/config/mosquitto.conf.
+1638831069: Opening ipv4 listen socket on port 1883.
+1638831069: Opening ipv6 listen socket on port 1883.
+1638831069: mosquitto version 2.0.14 running
+1638831069: New connection from 172.30.0.1:59610 on port 1883.
+1638831069: New client connected from 172.30.0.1:59610 as auto-E4BF1015-76C3-8C06-416F-DC9114BC8E33 (p2, c1, k60).
+1638831069: New connection from 172.30.0.1:59612 on port 1883.
+1638831069: New client connected from 172.30.0.1:59612 as auto-B71E3BB2-75E0-4856-6848-A3BCA0556889 (p2, c1, k60).
+1638831105: mosquitto version 2.0.14 terminating
+1638831105: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638831113: mosquitto version 2.0.14 starting
+1638831113: Config loaded from /mosquitto/config/mosquitto.conf.
+1638831113: Opening ipv4 listen socket on port 1883.
+1638831113: Opening ipv6 listen socket on port 1883.
+1638831113: mosquitto version 2.0.14 running
+1638831114: New connection from 172.31.0.1:59678 on port 1883.
+1638831114: New connection from 172.31.0.1:59680 on port 1883.
+1638831114: New client connected from 172.31.0.1:59678 as auto-D2F3CBF3-2B31-2FE3-6A89-664E3639DE10 (p2, c1, k60).
+1638831114: New client connected from 172.31.0.1:59680 as auto-814BF360-6B10-051B-32B7-6749C83B1878 (p2, c1, k60).
+1638831122: mosquitto version 2.0.14 terminating
+1638831122: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638831140: mosquitto version 2.0.14 starting
+1638831140: Config loaded from /mosquitto/config/mosquitto.conf.
+1638831140: Opening ipv4 listen socket on port 1883.
+1638831140: Opening ipv6 listen socket on port 1883.
+1638831140: mosquitto version 2.0.14 running
+1638831140: New connection from 192.168.0.1:59698 on port 1883.
+1638831140: New connection from 192.168.0.1:59700 on port 1883.
+1638831140: New client connected from 192.168.0.1:59698 as auto-7BD08C4E-9958-F7F3-0AD9-A66576C0A96F (p2, c1, k60).
+1638831140: New client connected from 192.168.0.1:59700 as auto-09B141DC-75D4-9B62-D409-9B722BBF3F24 (p2, c1, k60).
+1638831519: New connection from 192.168.0.5:48080 on port 1883.
+1638831519: New client connected from 192.168.0.5:48080 as mqtt_77f90ca8ee7a (p2, c1, k60, u'emqx').
+1638831547: New connection from 192.168.0.1:59736 on port 1883.
+1638831547: New client connected from 192.168.0.1:59736 as BedroomDoor (p2, c1, k60).
+1638831643: Client BedroomDoor has exceeded timeout, disconnecting.
+1638831726: Client auto-7BD08C4E-9958-F7F3-0AD9-A66576C0A96F disconnected.
+1638831726: New connection from 192.168.0.1:59758 on port 1883.
+1638831726: New client connected from 192.168.0.1:59758 as auto-71B8311E-B6D1-15E7-630E-54B6E47760F7 (p2, c1, k60).
+1638831738: New connection from 192.168.0.1:59760 on port 1883.
+1638831738: New client connected from 192.168.0.1:59760 as BedroomDoor (p2, c1, k60).
+1638831847: Client BedroomDoor has exceeded timeout, disconnecting.
+1638832208: Client mqtt_77f90ca8ee7a closed its connection.
+1638832209: New connection from 192.168.0.5:48138 on port 1883.
+1638832209: New client connected from 192.168.0.5:48138 as mqtt_ab67fe02624b (p2, c1, k60, u'emqx').
+1638832223: New connection from 192.168.0.1:59792 on port 1883.
+1638832223: New client connected from 192.168.0.1:59792 as BedroomDoor (p2, c1, k60).
+1638832357: Client BedroomDoor has exceeded timeout, disconnecting.
+1638832390: Client mqtt_ab67fe02624b closed its connection.
+1638832391: New connection from 192.168.0.5:48162 on port 1883.
+1638832391: New client connected from 192.168.0.5:48162 as mqtt_ab80a6e1b5f5 (p2, c1, k60, u'emqx').
+1638832529: New connection from 192.168.0.1:59830 on port 1883.
+1638832529: New client connected from 192.168.0.1:59830 as BedroomDoor (p2, c1, k60).
+1638832621: Client BedroomDoor has exceeded timeout, disconnecting.
+1638832639: Client mqtt_ab80a6e1b5f5 closed its connection.
+1638832639: mosquitto version 2.0.14 terminating
+1638832639: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638832655: mosquitto version 2.0.14 starting
+1638832655: Config loaded from /mosquitto/config/mosquitto.conf.
+1638832655: Opening ipv4 listen socket on port 1883.
+1638832655: Opening ipv6 listen socket on port 1883.
+1638832655: mosquitto version 2.0.14 running
+1638832656: New connection from 192.168.16.1:59848 on port 1883.
+1638832656: New client connected from 192.168.16.1:59848 as auto-21DE9B8E-F0CD-9FF1-696F-5E74A6B2ADEC (p2, c1, k60).
+1638832656: New connection from 192.168.16.1:59850 on port 1883.
+1638832656: New client connected from 192.168.16.1:59850 as auto-B65D3E56-EEC1-24C8-7978-88957446CFAF (p2, c1, k60).
+1638832657: New connection from 192.168.16.5:35160 on port 1883.
+1638832657: New client connected from 192.168.16.5:35160 as mqtt_91c767efc797 (p2, c1, k60, u'emqx').
+1638833077: New connection from 192.168.16.1:59884 on port 1883.
+1638833078: New client connected from 192.168.16.1:59884 as BedroomDoor (p2, c1, k60).
+1638833171: Client BedroomDoor has exceeded timeout, disconnecting.
+1638833231: Client mqtt_91c767efc797 closed its connection.
+1638833232: New connection from 192.168.16.5:35196 on port 1883.
+1638833232: New client connected from 192.168.16.5:35196 as mqtt_e5ff859cbc7c (p2, c1, k60, u'emqx').
+1638833247: New connection from 192.168.16.1:59902 on port 1883.
+1638833247: New client connected from 192.168.16.1:59902 as BedroomDoor (p2, c1, k60).
+1638833327: Client mqtt_e5ff859cbc7c closed its connection.
+1638833328: New connection from 192.168.16.5:35212 on port 1883.
+1638833328: New client connected from 192.168.16.5:35212 as mqtt_10b032e876f1 (p2, c1, k60, u'emqx').
+1638833357: Client BedroomDoor has exceeded timeout, disconnecting.
+1638833367: New connection from 192.168.16.1:59916 on port 1883.
+1638833367: New client connected from 192.168.16.1:59916 as BedroomDoor (p2, c1, k60).
+1638833477: Client BedroomDoor has exceeded timeout, disconnecting.
+1638833559: New connection from 192.168.16.1:59940 on port 1883.
+1638833559: New client connected from 192.168.16.1:59940 as BedroomDoor (p2, c1, k60).
+1638833657: Client BedroomDoor has exceeded timeout, disconnecting.
+1638833704: New connection from 192.168.16.1:59956 on port 1883.
+1638833704: New client connected from 192.168.16.1:59956 as BedroomDoor (p2, c1, k60).
+1638833709: Client BedroomDoor closed its connection.
+1638839697: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1638842709: Client auto-21DE9B8E-F0CD-9FF1-696F-5E74A6B2ADEC closed its connection.
+1638842711: Client auto-B65D3E56-EEC1-24C8-7978-88957446CFAF closed its connection.

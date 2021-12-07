@@ -1,0 +1,14 @@
+{
+    "name": "iot_server_sub",
+    "version": "1.0.0",
+    "description": "Mobile Computing CW2 team",
+    "author": "Team CW2",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "mqtt": "^4.2.8",
+        "@influxdata/influxdb-client":"^1.21.0"
+    }
+}
